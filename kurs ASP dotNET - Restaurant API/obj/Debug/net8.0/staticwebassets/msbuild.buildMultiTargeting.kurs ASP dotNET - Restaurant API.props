@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\kurs ASP dotNET - Restaurant API.props" />
+</Project>
